@@ -6,7 +6,9 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "in.papayacoders.instasaver"
+        //applicationId "in.papayacoders.instasaver"
+        //applicationId "com.mobstac.thehindu"
+        applicationId "com.ashwa.edu"
         minSdk 23
         targetSdk 32
         versionCode 1
