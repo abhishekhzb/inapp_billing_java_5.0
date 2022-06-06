@@ -9,10 +9,10 @@ android {
         //applicationId "in.papayacoders.instasaver"
         //applicationId "com.mobstac.thehindu"
         applicationId "com.ashwa.edu"
-        minSdk 23
-        targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        minSdk 24
+        targetSdk 31
+        versionCode 6
+        versionName "IAPDemo 1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
